@@ -1,7 +1,7 @@
 # Magic scroll animation experiments
 
 ## Table of Contents
-+ [gh-pages] (https://bygaga63.github.io/scroll-animation-plane)
++ [gh-pages](https://bygaga63.github.io/scroll-animation-plane)
 + [About](#about)
 + [Installing](#installing)
 
