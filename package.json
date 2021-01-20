@@ -14,7 +14,7 @@
   "homepage": "https://bygaga63.github.io/scroll-animation-plane/",
   "dependencies": {
     "gh-pages": "^2.1.1",
-    "gsap": "2.1.3",
+    "gsap": "3.6.0",
     "html-webpack-plugin": "^3.2.0",
     "imports-loader": "0.8.0",
     "scrollmagic": "2.0.7",
